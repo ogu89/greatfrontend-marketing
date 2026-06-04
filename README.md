@@ -6,7 +6,7 @@ Frontend practice projects from GreatFrontEnd.
 
 - [x] Testimonial Card
 - [ ] Blog Card
-- [ ] Profile Card
+- [x] Profile Card
 - [ ] Hero Section Simple
 - [ ] Hero Section Feature
 - [ ] Features Section Grid
