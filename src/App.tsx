@@ -1,9 +1,11 @@
-import { TestimonialCard } from "./challenges/testimonial-card";
+import { ProfileCard } from "./challenges/profile-card";
+// import { TestimonialCard } from "./challenges/testimonial-card";
 
 function App() {
   return (
-    <main className="flex min-h-screen items-center justify-center bg-gray-50 p-6">
-      <TestimonialCard />
+    <main className="flex min-h-screen w-screen justify-center bg-[linear-gradient(147.52deg,#f9fafb_8.89%,#d2d6db_100.48%)]">
+      {/* <TestimonialCard /> */}
+      <ProfileCard />
     </main>
   );
 }
