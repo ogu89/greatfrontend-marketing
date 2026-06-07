@@ -1,1 +1,1 @@
-export { HelloSectionFeature } from "./HelloSectionFeature";
+export { HelloSectionFeatureBullets } from "./HelloSectionFeatureBullets";
