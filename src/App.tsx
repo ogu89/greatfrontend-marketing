@@ -1,3 +1,4 @@
+import { FeatureSectionGrid } from "./challenges/feature-section-grid";
 import { HelloSectionFeatureBullets } from "./challenges/hero-section-feature-bullets";
 import { ProfileCard } from "./challenges/profile-card";
 import { TestimonialCard } from "./challenges/testimonial-card";
@@ -17,6 +18,10 @@ function App() {
 
   if (path === "/hello-section-feature-bullets") {
     challenge = <HelloSectionFeatureBullets />;
+  }
+
+  if (path === "/feature-section-grid") {
+    challenge = <FeatureSectionGrid />;
   }
 
   return (
