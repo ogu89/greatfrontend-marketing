@@ -60,7 +60,7 @@ export function FeatureSectionGrid() {
 
   return (
     <>
-      <div className="mx-auto flex flex-col items-center w-full  bg-white gap-12 rounded-md  px-4 py-[62px] shadow-lg  md:gap-8 md:py-[72px]  lg:px-24 lg:py-[105px]">
+      <div className=" flex flex-col items-center w-full mx-4 bg-white rounded-md gap-y-18  px-4 py-[62px]  shadow-lg  md:py-[72px]  lg:px-24 lg:py-[120px]">
         <div className="flex flex-col items-center text-center gap-y-4">
           <span className="text-indigo-700 font-semibold">
             Premium abstract images
